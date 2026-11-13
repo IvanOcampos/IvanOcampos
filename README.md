@@ -20,4 +20,4 @@ My interests lie in **Data Analysis, Machine Learning, Deep Learning, and Softwa
 ### Currently
 🚀 Building projects, strengthening my technical foundations, and looking for my first professional opportunity in **Software Development, Data Analysis, or Machine Learning**.
 
-📫 [LinkedIn](https://www.linkedin.com/in/ivanocampos) · [Kaggle]((http://kaggle.com/ivanocampos))
+📫 [LinkedIn](https://www.linkedin.com/in/ivanocampos) · [Kaggle](http://kaggle.com/ivanocampos)
