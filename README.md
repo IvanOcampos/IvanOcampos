@@ -15,7 +15,7 @@ My interests lie in **Data Analysis, Machine Learning, Deep Learning, and Softwa
 **Languages:** Python · C · Java · JavaScript · SQL  
 **Data & ML:** Pandas · NumPy · Scikit-learn · PyTorch · TensorFlow  
 **Backend & Tools:** Flask · Node.js · Express · Git · GitHub · Docker  
-**Databases:** SQLite · PostgreSQL · MongoDB
+**Databases:** SQLite · MongoDB
 
 ### Currently
 🚀 Building projects, strengthening my technical foundations, and looking for my first professional opportunity in **Software Development, Data Analysis, or Machine Learning**.
